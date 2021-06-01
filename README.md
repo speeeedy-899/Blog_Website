@@ -10,5 +10,5 @@
 </ul>
 <h2>Work In progress:</h2>
 <p>Adding database (mongoDB) to the project.</p>
-
+<p>Adding responsiveness for different screen sizes.</p>
   
